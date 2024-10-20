@@ -1,0 +1,8 @@
+test.*.correct
+test.*.myoutput
+test.*.input
+bash
+*.o
+lex.yy.c
+parser.tab.c
+.DS_Store
